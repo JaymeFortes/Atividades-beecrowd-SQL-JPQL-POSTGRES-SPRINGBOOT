@@ -36,18 +36,5 @@ public class Application implements CommandLineRunner {
 		}
 		System.out.println("\n\n");
 
-		/*
-		List<ProductMinDTO> result2 = productRepository.search2(10, 20, "P");
-
-		System.out.println("*** RESULTADO JPQL:");
-		if (result2.isEmpty()) {
-			System.out.println("Nenhum filme encontrado para o gênero especificado.");
-		} else {
-			for (ProductMinDTO obj : result2) {
-				System.out.println(obj);
-			}
-		}
-	}
-	*/
 	}
 }
