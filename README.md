@@ -15,7 +15,7 @@ Este projeto foi criado para armazenar e compartilhar minhas resoluções de exe
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/JaymeFortes/Atividades-beecrowd-SQL-JPQL-POSTGRES-SPRINGBOOT.git
    ```
 2. Importe o projeto em sua IDE (ex: IntelliJ, Eclipse).
 3. Configure a conexão com seu banco de dados (`application.properties`).
