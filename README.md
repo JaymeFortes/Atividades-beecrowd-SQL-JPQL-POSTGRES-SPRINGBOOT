@@ -11,6 +11,12 @@ Este projeto foi criado para armazenar e compartilhar minhas resoluções de exe
 - **Spring Boot / Spring Data JPA**
 - **Java 21**
 
+## 📂 Estrutura do Repositório:
+
+uri-####/ : Consultas SQL raiz para resolver desafios clássicos/Consultas usando JPQL para interação com JPA
+
+aulão_nmais1/: Práticas para evitar consultas lentas em relacionamentos muitos-para-muitos (N+1 problem).
+
 
 ## 🚀 Como Executar
 1. Clone o repositório:
