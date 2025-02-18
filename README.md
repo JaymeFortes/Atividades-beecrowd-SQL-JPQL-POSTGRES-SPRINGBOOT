@@ -16,6 +16,7 @@ Este projeto foi criado para armazenar e compartilhar minhas resoluções de exe
 uri-####/ : Consultas SQL raiz para resolver desafios clássicos/Consultas usando JPQL para interação com JPA
 
 aulão_nmais1/: Práticas para evitar consultas lentas em relacionamentos muitos-para-muitos (N+1 problem).
+jpa-queris1/: Práticas para evitar consultas lentas em relacionamentos muitos-para-um com countQuery
 
 
 ## 🚀 Como Executar
